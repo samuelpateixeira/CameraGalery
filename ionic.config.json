@@ -1,0 +1,7 @@
+{
+  "name": "blankPage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
